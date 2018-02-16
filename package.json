@@ -1,0 +1,22 @@
+{
+  "name": "javascript-algorithm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mrchanghao/javascript-algorithm.git"
+  },
+  "author": "lee chang ho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mrchanghao/javascript-algorithm/issues"
+  },
+  "homepage": "https://github.com/Mrchanghao/javascript-algorithm#readme",
+  "dependencies": {
+    "jest": "^22.3.0"
+  }
+}
